@@ -1,0 +1,50 @@
+[
+    {
+        "title": "AI-Powered Fake News Detector",
+        "category": "AI & MLOps",
+        "description": "Orchestrated an end-to-end MLOps pipeline using BERT (NLP) to detect misinformation with 96% accuracy. Deployed a hybrid credibility engine on Hugging Face Spaces using Docker.",
+        "image": "/images/fake-news.jpg",
+        "tech": [
+            "Python",
+            "BERT",
+            "Docker",
+            "Flask"
+        ],
+        "links": {
+            "github": "https://github.com/balu1006",
+            "demo": "https://huggingface.co/spaces/balumahendra/AI-Powered-Fake-News-Detector"
+        }
+    },
+    {
+        "title": "Real-Time Object Recognition",
+        "category": "Computer Vision",
+        "description": "Engineered a real-time object detection system using OpenCV and TensorFlow. Optimized custom training loops to improve classification speed and accuracy by 20%.",
+        "image": "/images/object-detection.png",
+        "tech": [
+            "Python",
+            "TensorFlow",
+            "OpenCV",
+            "Deep Learning"
+        ],
+        "links": {
+            "github": "https://github.com/balu1006",
+            "demo": "https://balu1006.github.io/Infosys-Object-Recognition-System/"
+        }
+    },
+    {
+        "title": "Intelligent Portfolio Architecture",
+        "category": "Web Engineering",
+        "description": "Designed a high-performance personal brand platform using React and Tailwind CSS. Implemented component-based architecture and semantic HTML5 for maximum SEO.",
+        "image": "/images/portfolio.png",
+        "tech": [
+            "React",
+            "Tailwind",
+            "Framer Motion",
+            "UI/UX"
+        ],
+        "links": {
+            "github": "https://github.com/balu1006",
+            "demo": "#"
+        }
+    }
+]

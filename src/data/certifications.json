@@ -1,0 +1,38 @@
+[
+    {
+        "title": "AWS Certified Cloud Practitioner",
+        "issuer": "Amazon Web Services (AWS)",
+        "date": "March 2024",
+        "score": "Score: 864/1000",
+        "description": "Validated expertise in AWS Cloud platform, security, architecture, and billing. Proved ability to deploy scalable cloud solutions.",
+        "link": "https://www.credly.com/badges/6a468f18-0726-4dcc-bde9-522bc3154315/linked_in?t=sb4hx5",
+        "color": "border-orange-500 text-orange-400"
+    },
+    {
+        "title": "Meta Front-End Developer",
+        "issuer": "Coursera & Meta",
+        "date": "August 2023",
+        "score": "Professional Certificate",
+        "description": "Comprehensive training in React, JavaScript, and Version Control. Mastered UX/UI principles and frontend architecture.",
+        "link": "https://www.coursera.org/account/accomplishments/professional-cert/G9LSQEENHQD2",
+        "color": "border-blue-500 text-blue-400"
+    },
+    {
+        "title": "Principles of Generative AI",
+        "issuer": "Infosys",
+        "date": "August 2024",
+        "score": "Score: 85%",
+        "description": "Deep dive into Large Language Models (LLMs), GPT architecture, and prompt engineering strategies for AI applications.",
+        "link": "#",
+        "color": "border-purple-500 text-purple-400"
+    },
+    {
+        "title": "Artificial Intelligence Primer",
+        "issuer": "Infosys",
+        "date": "August 2024",
+        "score": "Certified",
+        "description": "Foundational certification covering Machine Learning, Data Science pipelines, NLP, and Robotic Process Automation.",
+        "link": "#",
+        "color": "border-cyan-500 text-cyan-400"
+    }
+]

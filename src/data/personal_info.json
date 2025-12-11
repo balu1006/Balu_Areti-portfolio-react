@@ -1,0 +1,25 @@
+[
+    {
+        "section": "personal_info",
+        "details": [
+            {
+                "icon": "FaCalendar",
+                "text": "10-JUN-1999"
+            },
+            {
+                "icon": "FaMapMarkerAlt",
+                "text": "Rajahmundry East Godavari, Andhra Pradesh"
+            }
+        ],
+        "languages": [
+            "Telugu",
+            "English",
+            "Hindi"
+        ],
+        "volunteer": [
+            "Marathon Novotel Vizag",
+            "Eco Warriors",
+            "Student Coordinator"
+        ]
+    }
+]

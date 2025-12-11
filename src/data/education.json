@@ -1,0 +1,16 @@
+[
+    {
+        "degree": "Master of Computer Application (MCA)",
+        "institution": "KIIT University, Bhubaneshwar, Odisha",
+        "year": "2023 - 2025 (Pursuing)",
+        "description": "Specialized in Artificial Intelligence and Software Engineering.",
+        "color": "border-primary"
+    },
+    {
+        "degree": "Bachelor Of Hotel Management",
+        "institution": "",
+        "year": "Completed",
+        "description": "Previous academic background demonstrating versatility and soft skills.",
+        "color": "border-secondary"
+    }
+]

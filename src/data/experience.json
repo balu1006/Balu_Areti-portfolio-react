@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Infosys Springboard Intern",
+        "subtitle": "Infosys | Remote",
+        "date": "Oct 2024 - Jan 2025",
+        "description": "Completed hands-on training in Software Development and AI. Developed an Object Recognition System using Deep Learning and OpenCV. Learned about Agile Methodologies, Version Control, and CI/CD Pipelines.",
+        "link": "#",
+        "tech": "Python • Deep Learning • OpenCV",
+        "color": "text-blue-400 border-blue-500"
+    },
+    {
+        "title": "AWS re/Start Program Trainee",
+        "subtitle": "Tech Mahindra | Visakhapatnam",
+        "date": "Dec 2023 - Mar 2024",
+        "description": "Completed a 12-week program on AWS Cloud services. Achieved a certification score of 864/1000 on the AWS Cloud Practitioner exam. Gained practical knowledge of Linux and Python.",
+        "link": "#",
+        "tech": "AWS • Linux • Networking",
+        "color": "text-orange-400 border-orange-500"
+    },
+    {
+        "title": "Meta Front-End Developer Certificate",
+        "subtitle": "Coursera (Authorized by Meta)",
+        "date": "Feb 2023 - Aug 2023",
+        "description": "Mastered React.js and UI/UX principles. Developed 3+ dynamic websites, improving UX/UI and conversion rates by 40%. Improved website speed and performance by 30% through optimizations.",
+        "link": "https://www.coursera.org/account/accomplishments/verify/6U98TT2BKL4G",
+        "tech": "React • JavaScript • UI/UX",
+        "color": "text-cyan-400 border-cyan-500"
+    },
+    {
+        "title": "HR Intern",
+        "subtitle": "Radisson Blu | Udaipur",
+        "date": "Oct 2019 - Mar 2020",
+        "description": "Gained hands-on experience in HR operations, strengthening team coordination and professional communication in a high-paced hospitality environment.",
+        "link": "#",
+        "tech": "Management • Operations",
+        "color": "text-pink-400 border-pink-500"
+    }
+]

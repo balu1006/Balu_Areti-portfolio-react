@@ -1,0 +1,66 @@
+[
+    {
+        "skill": "Data Structures",
+        "level": "70%"
+    },
+    {
+        "skill": "Algorithms",
+        "level": "70%"
+    },
+    {
+        "skill": "C",
+        "level": "70%"
+    },
+    {
+        "skill": "C++",
+        "level": "60%"
+    },
+    {
+        "skill": "Java",
+        "level": "60%"
+    },
+    {
+        "skill": "Python",
+        "level": "70%"
+    },
+    {
+        "skill": "AWS",
+        "level": "60%"
+    },
+    {
+        "skill": "Docker",
+        "level": "50%"
+    },
+    {
+        "skill": "MySQL",
+        "level": "60%"
+    },
+    {
+        "skill": "HTML",
+        "level": "80%"
+    },
+    {
+        "skill": "CSS",
+        "level": "60%"
+    },
+    {
+        "skill": "JavaScript",
+        "level": "60%"
+    },
+    {
+        "skill": "Reactjs",
+        "level": "75%"
+    },
+    {
+        "skill": "Git & Github",
+        "level": "70%"
+    },
+    {
+        "skill": "Linux",
+        "level": "60%"
+    },
+    {
+        "skill": "Figma",
+        "level": "50%"
+    }
+]
