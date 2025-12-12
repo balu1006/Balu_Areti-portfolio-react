@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin, FaFileDownload } from 'react-icons/fa';
 const Hero = () => {
     // Define paths directly to the public folder
     const profileImg = `${import.meta.env.BASE_URL}images/Profile.jpg`;
-    const resumeLink = `${import.meta.env.BASE_URL}documents/resume.pdf`;
+    const resumeLink = `${import.meta.env.BASE_URL}documents/Balu Areti.pdf`;
 
     return (
         <section id="home" className="min-h-screen flex items-center justify-center bg-dark-bg text-white px-8 md:px-16 relative overflow-hidden pt-20 sm:pt-0">
