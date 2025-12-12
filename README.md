@@ -39,8 +39,6 @@
 
 ## 📸 Screenshots
 
-> *Note: Please add screenshots to a `screenshots` folder in your repository to make these images appear.*
-
 ### 🏠 Hero Section
 *Modern, clean hero section with responsive layout and professional profile presentation.*
 ![Hero Section](./images/portfolio.png)
