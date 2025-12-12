@@ -55,7 +55,7 @@
 
 ### 📩 Contact Form
 *Fully functional serverless contact form integrated with Formspree.*
-![Contact Section](./images/contact.png)
+![Contact Section](./images/Contact.png)
 
 ---
 
